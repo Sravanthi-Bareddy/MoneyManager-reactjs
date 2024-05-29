@@ -16,7 +16,6 @@ const transactionTypeOptions = [
     displayText: 'Expenses',
   },
 ]
-
 class MoneyManager extends Component {
   state = {
     transactionsList: [],
